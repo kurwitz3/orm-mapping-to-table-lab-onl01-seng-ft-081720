@@ -31,5 +31,5 @@ class Student
      VALUES (?,?)
      SQL
 db[:conn].execute(sql)  
-  END
+end
 end
