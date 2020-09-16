@@ -14,6 +14,7 @@ class Student
    id INTEEGER PRIMARY KEY,
    name TEXT,
    grade INTEEGER);
+   SQL
    
    
    
