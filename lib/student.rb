@@ -13,9 +13,8 @@ class Student
    CREATE TABLE IF NOT EXISTS students (
    id INTEEGER PRIMARY KEY,
    name TEXT,
-   grade 
+   grade INTEEGER);
    
-   )
    
    
    
