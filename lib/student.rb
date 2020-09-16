@@ -15,7 +15,8 @@ class Student
    name TEXT,
    grade INTEEGER);
    SQL
-   
+   DB[:conn].execute(sql) 
+ end 
    
    
    
